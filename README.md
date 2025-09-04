@@ -34,7 +34,7 @@ By combining these approaches, the tool provides actionable insights for HR team
 - Simulate real-world workplace scenarios to study behavioral patterns.
 - Generate actionable reports to improve workplace culture.
   
-## Dependencies
+## Project Setup
 
 ## Contributors
 - [Abinand Krishna](https://github.com/abd2op)
